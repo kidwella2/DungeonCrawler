@@ -1,0 +1,7 @@
+﻿  RoomBattle.cpp
+G:\CSC Projects\DungeonCrawler(C++)\DungeonCrawler\Player.h(87,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\CSC Projects\DungeonCrawler(C++)\DungeonCrawler\Player.h(96,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\CSC Projects\DungeonCrawler(C++)\DungeonCrawler\Player.h(105,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\CSC Projects\DungeonCrawler(C++)\DungeonCrawler\Creature.h(52,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\CSC Projects\DungeonCrawler(C++)\DungeonCrawler\RoomBattle.cpp(315,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DungeonCrawler.vcxproj -> G:\CSC Projects\DungeonCrawler(C++)\x64\Debug\DungeonCrawler.exe

@@ -1,0 +1,5 @@
+﻿  DungeonCrawler.cpp
+  GameLoop.cpp
+G:\CSC Projects\DungeonCrawler\DungeonCrawler\GameLoop.cpp(21,9): warning C4101: 'dungeonSize': unreferenced local variable
+  Generating Code...
+  DungeonCrawler.vcxproj -> G:\CSC Projects\DungeonCrawler\Debug\DungeonCrawler.exe
